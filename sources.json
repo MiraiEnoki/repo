@@ -1,0 +1,38 @@
+{
+  "aniyomiRepos": [],
+  "mangayomiAnimeRepos": [],
+  "soraRepos": [
+    "https://raw.githubusercontent.com/Shebyyy/sources-dart/4b0e3edf448c11bd0b1e84387432224846ebf0f5/anymex/50n50/anime.json"
+  ],
+  "cloudstreamRepos": [
+    "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/repo.json",
+    "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json"
+  ],
+  "preinstallTargets": [
+    {
+      "name": "AnimePahe",
+      "managerId": "aniyomi",
+      "tag": "Anime"
+    },
+    {
+      "name": "Cinestream",
+      "managerId": "cloudstream",
+      "tag": "Movie"
+    },
+    {
+      "name": "Streamplay",
+      "managerId": "cloudstream",
+      "tag": "Movie"
+    },
+    {
+      "name": "Allanime",
+      "managerId": "sora",
+      "tag": "Series"
+    },
+    {
+      "name": "ashi",
+      "managerId": "sora",
+      "tag": "Series"
+    }
+  ]
+}
