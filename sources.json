@@ -25,12 +25,27 @@
       "tag": "Movie"
     },
     {
-      "name": "Allanime",
+      "name": "ashi",
       "managerId": "sora",
       "tag": "Series"
     },
     {
-      "name": "ashi",
+      "name": "animekai",
+      "managerId": "sora",
+      "tag": "Series"
+    },
+    {
+      "name": "hianime",
+      "managerId": "sora",
+      "tag": "Series"
+    },
+    {
+      "name": "1movie",
+      "managerId": "sora",
+      "tag": "Series"
+    },
+    {
+      "name": "vid",
       "managerId": "sora",
       "tag": "Series"
     }
