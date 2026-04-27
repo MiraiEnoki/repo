@@ -9,14 +9,53 @@
     "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CS.json"
   ],
   "preinstallTargets": [
-    { "name": "Moviebox", "managerId": "cloudstream", "tag": "Movie" },
-    { "name": "Streamplay", "managerId": "cloudstream", "tag": "Movie" },
-    { "name": "Cinestream", "managerId": "cloudstream", "tag": "Movie" },
-    { "name": "ashi", "managerId": "sora", "tag": "Series" },
-    { "name": "animekai", "managerId": "sora", "tag": "Anime" },
-    { "name": "kickassanimes", "managerId": "sora", "tag": "Anime" },
-    { "name": "animetsu", "managerId": "sora", "tag": "Anime" },
-    { "name": "1movie", "managerId": "sora", "tag": "Series" },
-    { "name": "vid", "managerId": "sora", "tag": "Series" }
+    {
+      "name": "Moviebox",
+      "managerId": "cloudstream",
+      "tag": "Movie"
+    },
+    {
+      "name": "Streamplay",
+      "managerId": "cloudstream",
+      "tag": "Movie"
+    },
+    {
+      "name": "Cinestream",
+      "managerId": "cloudstream",
+      "tag": "Movie"
+    },
+    {
+      "name": "ashi",
+      "managerId": "sora",
+      "tag": "Series"
+    },
+    {
+      "name": "animekai",
+      "managerId": "sora",
+      "tag": "Anime"
+    },
+    {
+      "name": "kickassanimes",
+      "managerId": "sora",
+      "tag": "Anime"
+    },
+    {
+      "name": "animetsu",
+      "managerId": "sora",
+      "tag": "Anime"
+    },
+    {
+      "name": "1movie",
+      "managerId": "sora",
+      "tag": "Series"
+    },
+    {
+      "name": "vid",
+      "managerId": "sora",
+      "tag": "Series"
+    }
+  ],
+  "excludedExtensions": [
+    "dora-video"
   ]
 }
